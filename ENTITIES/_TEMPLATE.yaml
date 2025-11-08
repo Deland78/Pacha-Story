@@ -1,0 +1,13 @@
+# ENTITIES/_TEMPLATE.yaml
+# Duplicate and fill to register a new presence (human, place, spirit, animal, memory).
+
+entity_id: your_entity_id
+name: "[Display Name]"
+domain: kay  # one of: hana, kay, ukhu
+essence: "[What it exchanges or transforms]"
+relations:
+  - "[who/what it affects or is affected by]"
+appears_through: "[gesture, weather, dream, stone, silence]"
+material_presence: "[if any — e.g., granite, river foam, tobacco smoke]"
+notes: >
+  [any research, language, or ritual references]

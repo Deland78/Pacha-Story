@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+
+# Locate scaffold at root or in subfolder
+BASE="$REPO_ROOT"
+if [[ -f "$REPO_ROOT/KHIPU_MAP.yaml" && -d "$REPO_ROOT/WEAVINGS" && -d "$REPO_ROOT/ENTITIES" ]]; then
+  BASE="$REPO_ROOT"
+elif [[ -f "$REPO_ROOT/pacha_scaffold/KHIPU_MAP.yaml" ]]; then
+  BASE="$REPO_ROOT/pacha_scaffold"
+else
+  echo "[pre-commit] Could not locate KHIPU_MAP.yaml / WEAVINGS / ENTITIES. Skipping."
+  exit 0
+fi
+
+# Prefer venv python (Windows or POSIX)
+if [[ -x "$BASE/.venv/Scripts/python.exe" ]]; then
+  PY="$BASE/.venv/Scripts/python.exe"
+elif [[ -x "$BASE/.venv/bin/python" ]]; then
+  PY="$BASE/.venv/bin/python"
+else
+  PY="python"
+fi
+
+echo "[pre-commit] Updating indices in: $BASE"
+"$PY" "$BASE/update_khipu.py" --base "$BASE"
+
+git add "$BASE/KHIPU_MAP.yaml"
+echo "[pre-commit] KHIPU_MAP.yaml refreshed and staged."

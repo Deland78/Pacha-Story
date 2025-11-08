@@ -1,0 +1,12 @@
+# ENTITIES/entity_naira.yaml
+entity_id: naira
+name: "Naira"
+domain: kay
+essence: "Seeks her ancestor’s reflection; learns reciprocity"
+relations:
+  - "Child of the wind"
+  - "Kin to the obsidian"
+appears_through: "ritual gestures; breath; listening"
+material_presence: "hair offering; woven sling"
+notes: >
+  Human voice. Protagonist thread for Kay Pacha.

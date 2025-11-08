@@ -1,0 +1,19 @@
+# WEAVINGS/W02_example.yaml
+weaving_id: W02
+title: "Thunder Face"
+domain: hana
+threads_continued: [kay:W01]
+event_form: vision
+transformation: "Apu Qocha reveals its aspect; promise withheld until remembered"
+symbolic_motif: "obsidian mirror; forked lightning"
+sensory:
+  sound: "crack over stone; echo in ribs"
+  color: "gold; black"
+  texture: "granite; rain-lashed skin"
+entities_present: [Apu Qocha, Naira]
+summary: >
+  Lightning draws an eye upon the mountain’s flank—wet black shining.
+  Naira sees herself reflected in the obsidian shine, smaller than a raindrop,
+  and feels the weight of a name she has not yet learned to speak.
+notes: >
+  Prepare for future offering in W05. Link to cord: Mountain & Child.

@@ -1,0 +1,12 @@
+# ENTITIES/entity_apu_qocha.yaml
+entity_id: apu_qocha
+name: "Apu Qocha"
+domain: hana
+essence: "Withholds rain until remembered"
+relations:
+  - "Protector of the valley"
+  - "Echoes through thunder"
+appears_through: "granite face; storm; dream-image"
+material_presence: "obsidian glint; cold downdraft"
+notes: >
+  Mountain spirit. Appears in W02; binds to cord 'Mountain & Child'.

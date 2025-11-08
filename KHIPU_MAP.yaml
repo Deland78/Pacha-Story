@@ -1,0 +1,71 @@
+schema_version: 1.0
+story_mode: pacha
+domains:
+- hana
+- kay
+- ukhu
+color_legend:
+  hana: gold
+  kay: earth
+  ukhu: obsidian
+knot_types:
+- encounter
+- offering
+- memory
+- vision
+- conflict
+- union
+- return
+- transformation
+cord_types:
+- lineage
+- reciprocity
+- water
+- stone
+- wind
+- ritual
+- dream
+cords:
+- name: Blood & River
+  type: water
+  connects:
+  - Naira
+  - River Spirit
+  color: blue-red
+  notes: Reciprocity of blood memory and watershed.
+  knots:
+  - weaving_id: W01
+    knot_type: encounter
+    transformation: first whisper from the river
+    echoes:
+    - hana:W02
+  - weaving_id: W03
+    knot_type: offering
+    transformation: river accepts the coca leaves; current shifts
+    echoes:
+    - ukhu:W04
+- name: Mountain & Child
+  type: stone
+  connects:
+  - Apu Qocha
+  - Naira
+  color: granite
+  notes: Protection withheld until remembered.
+  knots:
+  - weaving_id: W02
+    knot_type: vision
+    transformation: thunder reveals the mountain’s face
+    echoes:
+    - kay:W05
+entities_index:
+- id: apu_qocha
+  file: ENTITIES/entity_apu_qocha.yaml
+- id: naira
+  file: ENTITIES/entity_naira.yaml
+weavings_index:
+- id: W01
+  file: WEAVINGS/W01_example.yaml
+- id: W02
+  file: WEAVINGS/W02_example.yaml
+- id: WXX
+  file: WEAVINGS/W03.yaml
