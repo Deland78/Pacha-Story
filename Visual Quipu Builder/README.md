@@ -27,6 +27,7 @@ This folder holds generated graph assets (DOT/SVG/PNG/PDF) plus helper scripts f
 
 ## Automation Ideas
 - Add the script to your local `pre-commit` or task runner after `python update_khipu.py` to keep visuals fresh.
+- The repo’s `.githooks/pre-commit` already invokes this script (or a Python fallback) so quipu diagrams update automatically whenever you commit from this repo.
 - Pair with a file watcher (e.g., `watchexec`, `Invoke-WebRequest`) to re-render whenever `KHIPU_MAP.yaml`, `WEAVINGS/`, or `ENTITIES/` change.
 - Drop the resulting SVG/PNG into `Visual Quipu Builder/` subfolders if you maintain versioned snapshots.
 

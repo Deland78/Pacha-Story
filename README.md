@@ -69,5 +69,6 @@ A structured field for human + AI co-writers building a Pacha-aligned narrative.
 - The script simply wraps `export_quipu_graph.py`, so you can also call that directly, e.g., `python export_quipu_graph.py --output quipu.dot --format dot`.
 - For SVG/PNG/PDF output, ensure Graphviz’s `dot` binary is on PATH.
 - The exporter reads `KHIPU_MAP.yaml`, `ENTITIES/`, and `WEAVINGS/`, so run it after you update cords or add files.
+- The `.githooks/pre-commit` hook now runs the builder automatically after `update_khipu.py`, keeping `Visual Quipu Builder/quipu.dot` and `quipu.svg` fresh when you commit.
 
 Maintain the quipu and every thread — human or AI — will stay aligned.

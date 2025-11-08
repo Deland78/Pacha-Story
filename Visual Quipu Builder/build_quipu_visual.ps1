@@ -5,9 +5,16 @@ param(
 )
 
 $validFormats = @("dot","svg","png","pdf")
-$chosen = @()
+$rawFormats = @()
 foreach ($fmt in $Formats) {
     if (-not $fmt) { continue }
+    $rawFormats += ($fmt -split "[,;]" | ForEach-Object { $_.Trim() } | Where-Object { $_ })
+}
+if (-not $rawFormats) {
+    $rawFormats = @("dot","svg")
+}
+$chosen = @()
+foreach ($fmt in $rawFormats) {
     $lower = $fmt.ToLowerInvariant()
     if ($validFormats -notcontains $lower) {
         throw "Unsupported format '$fmt'. Choose from: $($validFormats -join ', ')"

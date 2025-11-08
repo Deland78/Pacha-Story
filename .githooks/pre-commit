@@ -28,3 +28,32 @@ echo "[pre-commit] Updating indices in: $BASE"
 
 git add "$BASE/KHIPU_MAP.yaml"
 echo "[pre-commit] KHIPU_MAP.yaml refreshed and staged."
+
+VISUAL_DIR="$BASE/Visual Quipu Builder"
+if [[ -d "$VISUAL_DIR" ]]; then
+  echo "[pre-commit] Refreshing digital quipu visuals..."
+  BUILDER_SCRIPT="$VISUAL_DIR/build_quipu_visual.ps1"
+  VISUAL_SUCCESS=0
+
+  run_powershell_builder() {
+    local shell_cmd="$1"
+    "$shell_cmd" -NoProfile -ExecutionPolicy Bypass -File "$BUILDER_SCRIPT" -Base "$BASE" -Formats dot,svg >/dev/null && VISUAL_SUCCESS=1
+  }
+
+  if [[ -f "$BUILDER_SCRIPT" ]]; then
+    if command -v powershell.exe >/dev/null 2>&1; then
+      run_powershell_builder "powershell.exe" || true
+    elif command -v pwsh >/dev/null 2>&1; then
+      run_powershell_builder "pwsh" || true
+    fi
+  fi
+
+  if [[ $VISUAL_SUCCESS -eq 0 ]]; then
+    echo "[pre-commit] PowerShell builder unavailable; falling back to python exporter."
+    mkdir -p "$VISUAL_DIR"
+    "$PY" "$BASE/export_quipu_graph.py" --base "$BASE" --format dot --output "$VISUAL_DIR/quipu.dot" || true
+    if command -v dot >/dev/null 2>&1; then
+      "$PY" "$BASE/export_quipu_graph.py" --base "$BASE" --format svg --output "$VISUAL_DIR/quipu.svg" || true
+    fi
+  fi
+fi
