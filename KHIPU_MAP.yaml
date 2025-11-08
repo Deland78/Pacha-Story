@@ -69,3 +69,5 @@ weavings_index:
   file: WEAVINGS/W02_example.yaml
 - id: WXX
   file: WEAVINGS/W03.yaml
+- id: WXX
+  file: WEAVINGS/W05.yaml
