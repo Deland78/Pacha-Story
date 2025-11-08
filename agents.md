@@ -1,4 +1,57 @@
 # AGENTS.md  
+Codex Guidance (Project Memory)
+
+Project layout (authoritative):
+
+./AGENTS.md
+./KHIPU_MAP.yaml                # master index (cords/knots + indices)
+./WEAVINGS/                     # W##.yaml weaving units (story moments)
+./ENTITIES/                     # entity_*.yaml presences (human/land/spirit)
+./.githooks/pre-commit          # runs update_khipu.py and stages KHIPU_MAP.yaml
+./update_khipu.py               # regenerate indices from folders
+
+
+How to interpret files (do this before any task):
+
+Read KHIPU_MAP.yaml to understand cords (relations) and knots (transformations). The entities_index and weavings_index list the canonical files to open first.
+
+Treat each WEAVINGS/W##.yaml as a Weaving (scene-equivalent). Never rename IDs; add new files as W06.yaml, W07.yaml, etc.
+
+Treat each file in ENTITIES/ as an Entity (human, place, ancestor, spirit). Keep entity_id stable.
+
+Keep relations synchronized by running python update_khipu.py (the pre-commit hook already does this).
+
+When adding new material:
+
+New Weaving → duplicate WEAVINGS/_TEMPLATE.yaml, save as WNN.yaml, then commit; the hook updates KHIPU_MAP.yaml.
+
+New Entity → duplicate ENTITIES/_TEMPLATE.yaml, set entity_id, then commit.
+
+Update cords/knots → edit KHIPU_MAP.yaml (don’t touch the indices; they’re generated).
+
+Voice & form (must follow):
+
+Write in Pacha-aligned terms: Weavings (not “chapters”), Entities (not only “characters”), cords/knots (not “beats”).
+
+Begin a Weaving with meeting of presences; end on transformation of relation (not plot twist).
+
+Use domain tags: hana, kay, ukhu.
+
+Operational rules (Codex):
+
+Prefer editing existing YAML files rather than inventing new formats.
+
+Before proposing changes, list affected Weavings/Entities by ID.
+
+If you create or rename files, also update any references inside KHIPU_MAP.yaml (except the two indices, which the script regenerates).
+
+If the pre-commit hook fails, run:
+
+python update_khipu.py
+
+
+then re-commit.
+
 *(Pacha-Structured Story Framework)*
 
 ## 1. Storyworld Overview

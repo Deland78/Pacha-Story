@@ -44,6 +44,11 @@ cords:
     transformation: river accepts the coca leaves; current shifts
     echoes:
     - ukhu:W04
+  - weaving_id: W04
+    knot_type: memory
+    transformation: ancestral voice surfaces through water-dark
+    echoes:
+    - kay:W03
 - name: Mountain & Child
   type: stone
   connects:
@@ -57,17 +62,24 @@ cords:
     transformation: thunder reveals the mountain’s face
     echoes:
     - kay:W05
+  - weaving_id: W05
+    knot_type: offering
+    transformation: remembrance offered; protection begins to return
 entities_index:
 - id: apu_qocha
   file: ENTITIES/entity_apu_qocha.yaml
 - id: naira
   file: ENTITIES/entity_naira.yaml
+- id: river_spirit
+  file: ENTITIES/entity_river_spirit.yaml
 weavings_index:
 - id: W01
   file: WEAVINGS/W01_example.yaml
 - id: W02
   file: WEAVINGS/W02_example.yaml
-- id: WXX
+- id: W03
   file: WEAVINGS/W03.yaml
-- id: WXX
+- id: W04
+  file: WEAVINGS/W04.yaml
+- id: W05
   file: WEAVINGS/W05.yaml

@@ -1,0 +1,11 @@
+entity_id: river_spirit
+name: "River Spirit"
+domain: kay
+essence: "Carries ancestral song; stirs when remembered"
+relations:
+  - "Naira"
+  - "Valley watershed"
+appears_through: "eddy, chill on wrist, word-shaped current"
+material_presence: "silver fishbone; mist"
+notes: >
+  Present in W01; completes reciprocity thread with Blood & River cord.

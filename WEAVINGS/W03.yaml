@@ -1,7 +1,7 @@
 # WEAVINGS/_TEMPLATE.yaml
 # Duplicate this file to create a new weaving (e.g., W03.yaml).
 
-weaving_id: WXX
+weaving_id: W03
 title: "[Short evocative title]"
 domain: kay  # one of: hana, kay, ukhu
 threads_continued: [hana:WYY, ukhu:WZZ]  # optional cross-domain echoes
