@@ -3,7 +3,7 @@
 A structured field for human + AI co-writers building a Pacha-aligned narrative. Story units live as **Weavings** (YAML scenes), presences live as **Entities**, and their relations are tracked in a digital quipu (`KHIPU_MAP.yaml`) instead of a linear outline.
 
 ## 1. Purpose & Principles
-- Embody Andean cosmology directly: hana (upper), kay (living), ukhu (inner/ancestral).
+- Embody Andean Pacha directly: hana (upper), kay (living), ukhu (inner/ancestral).
 - Write relation-first: each weaving begins with a meeting of presences and ends on a transformed relation.
 - Keep humans and AI synchronized through shared templates, indices, and automation.
 
@@ -18,31 +18,23 @@ A structured field for human + AI co-writers building a Pacha-aligned narrative.
 | Collaboration folders | `Scene Drafts/`, `Story Bible/`, `Research Library/`, `Sprint Log/`, `Feedback Archive/`, `Visual Quipu Builder/`, etc. Draft freely here, but canon lives in YAML. |
 
 ## 3. Workflow Snapshot
-1. **Orient** – Read `AGENTS.md` and scan `KHIPU_MAP.yaml` to see active cords, knots, and domains.
+1. **Orient** – Read root `AGENTS.md` and scan `KHIPU_MAP.yaml` to see active cords, knots, and domains.  Review /ENTITIES/README AND /WEAVINGS/README then review a few existing weavings in /WEAVINGS folder to understand how they are constructed.
 2. **Plan a cord** – Decide which relationship thread (water, stone, reciprocity, lineage, dream, etc.) needs its next knot.
-3. **Draft a Weaving** – Copy `_TEMPLATE.yaml` to `WEAVINGS/WNN.yaml`. Fill in meeting of presences, domain, threads continued, event form, transformation, symbolic motif.
-4. **Update the quipu** – Under the relevant cord(s) in `KHIPU_MAP.yaml`, add a knot with `weaving_id`, `knot_type`, `transformation`, and any cross-domain `echoes` (e.g., `hana:W02`).
-5. **Maintain Entities** – If a new presence appears, duplicate `ENTITIES/_TEMPLATE.yaml`, keep `entity_id` stable, and describe domain/essence/relations/material presence.
-6. **Sync indices** – Run `python update_khipu.py` (or rely on the pre-commit hook) so `entities_index` and `weavings_index` stay accurate.
+3. **Draft a Weaving** – Ask AI to create a new Weaving.  It should Copy `_TEMPLATE.yaml` to `WEAVINGS/WNN.yaml`. Fill in meeting of presences, domain, threads continued, event form, transformation, symbolic motif.  
+4. **Update the quipu** – Ask AI to do this. I should add it Under the relevant cord(s) in `KHIPU_MAP.yaml`, add a knot with `weaving_id`, `knot_type`, `transformation`, and any cross-domain `echoes` (e.g., `hana:W02`).
+5. **Maintain Entities** – AI should detect if a new presence appears, duplicate `ENTITIES/_TEMPLATE.yaml`, keep `entity_id` stable, and describe domain/essence/relations/material presence.
+6. **Sync indices** – AI will Run `python update_khipu.py` (or rely on the pre-commit hook) so `entities_index` and `weavings_index` stay accurate.
 7. **Reflect** – Log what shifted between hana/kay/ukhu per the maintenance practice in `AGENTS.md`.
 
 ## 4. From Prose Draft to Canonical Weaving
 - Use prose drafts (e.g., `Scene Drafts/tiwanaku_burial_scene.md`) to explore voice.
 - When ready, translate into a Weaving:
-  1. Create `WEAVINGS/W06.yaml` from `_TEMPLATE.yaml`.
+  1. As AI to create a new empty weaving from you prose draft. It should Create `WEAVINGS/W06.yaml` from `_TEMPLATE.yaml`.
   2. Set domain (e.g., `ukhu`), connect `threads_continued` (e.g., `kay:W01`, `hana:W02`), specify `event_form`, `transformation`, `symbolic_motif`.
   3. Mention all `entities_present`.
   4. Add a knot to an existing cord or start a new one (see Section 6).
   5. Include echoes so the moment vibrates across domains.
 
-## 5. Entities (Presences)
-- Duplicate `_TEMPLATE.yaml`, set `entity_id` (e.g., `entity_khunu.yaml`).
-- Describe:
-  - `domain` (hana/kay/ukhu).
-  - `essence` (what they embody).
-  - `relations` (reciprocities, obligations, kinships).
-  - `material_presence` (stones, wind, textiles, gestures).
-- Keep IDs and filenames stable; refer to display names (e.g., “Naira”) inside cords/Weavings.
 
 ## 6. Cords & Knots (Story Spine)
 - Existing cords: **Blood & River** (water reciprocity between Naira and River Spirit) and **Mountain & Child** (stone protection between Apu Qocha and Naira).
@@ -71,5 +63,11 @@ A structured field for human + AI co-writers building a Pacha-aligned narrative.
 - [ ] Inserted knots + echoes in `KHIPU_MAP.yaml`.
 - [ ] Ran `python update_khipu.py`.
 - [ ] Logged reflections on hana/kay/ukhu balance.
+
+## 10. Visualize the Digital Quipu
+- Run `powershell -NoProfile -ExecutionPolicy Bypass -File "Visual Quipu Builder/build_quipu_visual.ps1"` to refresh `Visual Quipu Builder/quipu.dot` (always) and `quipu.svg` (if Graphviz is available). Add `-Formats dot,png` for other formats. (Use `pwsh` instead of `powershell` if you’re on PowerShell 7+.)
+- The script simply wraps `export_quipu_graph.py`, so you can also call that directly, e.g., `python export_quipu_graph.py --output quipu.dot --format dot`.
+- For SVG/PNG/PDF output, ensure Graphviz’s `dot` binary is on PATH.
+- The exporter reads `KHIPU_MAP.yaml`, `ENTITIES/`, and `WEAVINGS/`, so run it after you update cords or add files.
 
 Maintain the quipu and every thread — human or AI — will stay aligned.

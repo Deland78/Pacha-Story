@@ -1,0 +1,24 @@
+digraph DigitalQuipu {
+  graph [rankdir=LR, fontname="Helvetica", splines=true, overlap=false];
+  node  [fontname="Helvetica", shape=ellipse];
+  edge  [fontname="Helvetica"];
+  "entity_Apu_Qocha" [label="Apu Qocha\\n(hana)", style="filled", fillcolor="#d4af37", shape="ellipse", penwidth=1.3];
+  "entity_Naira" [label="Naira\\n(kay)", style="filled", fillcolor="#8d6e63", shape="ellipse", penwidth=1.3];
+  "entity_River_Spirit" [label="River Spirit\\n(kay)", style="filled", fillcolor="#8d6e63", shape="ellipse", penwidth=1.3];
+  "weaving_W01" [label="W01\\nThe River’s First Whisper", style="filled", fillcolor="#8d6e63", shape="rect", penwidth=1.1];
+  "weaving_W02" [label="W02\\nThunder Face", style="filled", fillcolor="#d4af37", shape="rect", penwidth=1.1];
+  "weaving_W03" [label="W03\\n[Short evocative title]", style="filled", fillcolor="#8d6e63", shape="rect", penwidth=1.1];
+  "weaving_W04" [label="W04\\n[To Be Titled]", style="filled", fillcolor="#121418", shape="rect", penwidth=1.1];
+  "weaving_W05" [label="W05\\n[Short evocative title]", style="filled", fillcolor="#8d6e63", shape="rect", penwidth=1.1];
+  "cord_Blood___River" [label="Blood & River\\n[water]", shape="diamond", style="filled", fillcolor="#acddc3", penwidth=1.5];
+  "entity_Naira" -> "cord_Blood___River" [dir=both, arrowhead=none, arrowtail=none, color="#90a4ae", penwidth=1.1];
+  "entity_River_Spirit" -> "cord_Blood___River" [dir=both, arrowhead=none, arrowtail=none, color="#90a4ae", penwidth=1.1];
+  "cord_Blood___River" -> "weaving_W01" [label="encounter: first whisper from the river\\nEchoes: hana:W02", color="#acddc3", penwidth=1.3];
+  "cord_Blood___River" -> "weaving_W03" [label="offering: river accepts the coca leaves; current shifts\\nEchoes: ukhu:W04", color="#acddc3", penwidth=1.3];
+  "cord_Blood___River" -> "weaving_W04" [label="memory: ancestral voice surfaces through water-dark\\nEchoes: kay:W03", color="#acddc3", penwidth=1.3];
+  "cord_Mountain___Child" [label="Mountain & Child\\n[stone]", shape="diamond", style="filled", fillcolor="#9e9e9e", penwidth=1.5];
+  "entity_Apu_Qocha" -> "cord_Mountain___Child" [dir=both, arrowhead=none, arrowtail=none, color="#90a4ae", penwidth=1.1];
+  "entity_Naira" -> "cord_Mountain___Child" [dir=both, arrowhead=none, arrowtail=none, color="#90a4ae", penwidth=1.1];
+  "cord_Mountain___Child" -> "weaving_W02" [label="vision: thunder reveals the mountain’s face\\nEchoes: kay:W05", color="#9e9e9e", penwidth=1.3];
+  "cord_Mountain___Child" -> "weaving_W05" [label="offering: remembrance offered; protection begins to return", color="#9e9e9e", penwidth=1.3];
+}
