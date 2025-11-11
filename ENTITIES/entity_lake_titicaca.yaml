@@ -1,0 +1,23 @@
+# ENTITIES/entity_lake_titicaca.yaml
+
+entity_id: entity_lake_titicaca
+name: "Titicaca, Mother of Waters"
+domain: [hana, kay, ukhu]
+essence: "The navel of Pacha itself, feeling the tremor of imbalance and withdrawing its breath — The center point recoils from disharmony."
+relations:
+  - Khunu
+  - Pukara
+  - The Suka Kollus
+  - The Community
+  - The Comet
+  - Pacha
+appears_through: "Withdrawal"
+material_presence: "The water/shoreline"
+notes: >
+  For the Tiwanaku people (ca. 500–1000 CE), Lake Titicaca was not merely a body of water — it was the navel of the cosmos,
+  the source of creation and the threshold between worlds. Tiwanaku mythic traditions — later echoed in Inca narratives — held
+  that the first humans and deities emerged from the waters of Titicaca. From its depths rose Viracocha (The Staff God), the
+  primordial creator, who formed the sun, moon, and stars before populating the earth. This mythic act of creation sanctified
+  the entire region: the lake's islands, peninsulas, and shoreline temples became sacred stations in a cosmic geography where
+  divine and human realms intertwined. In 992 CE, the lake's withdrawal signals not merely drought but a cosmic refusal—the
+  navel of creation questioning its relationship with the living world.

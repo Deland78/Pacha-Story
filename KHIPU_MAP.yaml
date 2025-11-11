@@ -26,60 +26,84 @@ cord_types:
 - ritual
 - dream
 cords:
-- name: Blood & River
-  type: water
+- name: Khunu's Threshold
+  type: ritual
   connects:
-  - Naira
-  - River Spirit
-  color: blue-red
-  notes: Reciprocity of blood memory and watershed.
+  - Khunu
+  - The Comet
+  - The Community
+  - The Elder
+  - The Burial Mound
+  color: multi-colored (gold-earth-obsidian)
+  notes: The witness becomes the threshold where all three Pachas meet and speak as one.
   knots:
   - weaving_id: W01
     knot_type: encounter
-    transformation: first whisper from the river
-    echoes:
-    - hana:W02
-  - weaving_id: W03
-    knot_type: offering
-    transformation: river accepts the coca leaves; current shifts
-    echoes:
-    - ukhu:W04
-  - weaving_id: W04
-    knot_type: memory
-    transformation: ancestral voice surfaces through water-dark
-    echoes:
-    - kay:W03
-- name: Mountain & Child
-  type: stone
+    transformation: "Clarity of sight: the folding of Pacha becomes visible to one who watches with pure heart — Truth made manifest."
+- name: Descent into Becoming
+  type: ritual
   connects:
-  - Apu Qocha
-  - Naira
-  color: granite
-  notes: Protection withheld until remembered.
+  - The Elder
+  - The Burial Mound
+  - Khunu
+  color: obsidian
+  notes: The passage from living presence to ancestral memory, witnessed and sealed.
   knots:
-  - weaving_id: W02
-    knot_type: vision
-    transformation: thunder reveals the mountain’s face
-    echoes:
-    - kay:W05
-  - weaving_id: W05
-    knot_type: offering
-    transformation: remembrance offered; protection begins to return
+  - weaving_id: W01
+    knot_type: transformation
+    transformation: "The Elder becomes ancestor; the mound becomes threshold — The passage is sealed and sacred."
+- name: The Measure of Balance
+  type: reciprocity
+  connects:
+  - The Community
+  - The Suka Kollus
+  color: earth
+  notes: The covenant between humans and Pachamama, now failing.
+  knots:
+  - weaving_id: W01
+    knot_type: conflict
+    transformation: "The fields no longer mirror cosmic order—the breach between human and earth is made visible — Order shattered."
+- name: Stone and Water
+  type: stone and water
+  connects:
+  - Pukara
+  - Lake Titicaca
+  color: gray-blue
+  notes: The two cosmic presences respond differently to the folding of Pacha.
+  knots:
+  - weaving_id: W01
+    knot_type: union
+    transformation: "Stone endures while water refuses—the two cosmic powers express the crisis differently — Divergence in response."
+- name: Celestial Interpreter
+  type: dream
+  connects:
+  - The Comet
+  - Kalasasaya Temple
+  color: gold
+  notes: The message from the stars and the stone gateway that reads it.
+  knots:
+  - weaving_id: W01
+    knot_type: memory
+    transformation: "The temple guards the axis where sky and earth meet; the comet's path shows that axis tilting—imbalance written in light — The center no longer holds."
 entities_index:
-- id: apu_qocha
-  file: ENTITIES/entity_apu_qocha.yaml
-- id: naira
-  file: ENTITIES/entity_naira.yaml
-- id: river_spirit
-  file: ENTITIES/entity_river_spirit.yaml
+- id: khunu
+  file: ENTITIES/entity_khunu.yaml
+- id: the_elder
+  file: ENTITIES/entity_the_elder.yaml
+- id: pukara_mountain
+  file: ENTITIES/entity_pukara_mountain.yaml
+- id: lake_titicaca
+  file: ENTITIES/entity_lake_titicaca.yaml
+- id: comet
+  file: ENTITIES/entity_comet.yaml
+- id: staff_god
+  file: ENTITIES/entity_staff_god.yaml
+- id: raised_fields
+  file: ENTITIES/entity_raised_fields.yaml
+- id: kalasasaya_temple
+  file: ENTITIES/entity_kalasasaya_temple.yaml
+- id: burial_mound
+  file: ENTITIES/entity_burial_mound.yaml
 weavings_index:
 - id: W01
-  file: WEAVINGS/W01_example.yaml
-- id: W02
-  file: WEAVINGS/W02_example.yaml
-- id: W03
-  file: WEAVINGS/W03.yaml
-- id: W04
-  file: WEAVINGS/W04.yaml
-- id: W05
-  file: WEAVINGS/W05.yaml
+  file: WEAVINGS/W01.yaml

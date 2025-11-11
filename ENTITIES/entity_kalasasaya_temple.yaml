@@ -1,0 +1,36 @@
+# ENTITIES/entity_kalasasaya_temple.yaml
+
+entity_id: entity_kalasasaya_temple
+name: "Kalasasaya, Gateway of the Sun"
+domain: [hana, kay, ukhu]
+essence: "The body of Tiwanaku's covenant with sky, earth, and ancestors — where reciprocity is choreographed and witnessed — Embodied reciprocity."
+relations:
+  - The Comet
+  - Pukara
+  - Lake Titicaca
+  - The Staff God
+  - The Community
+  - Pacha
+appears_through: "Ceremony/ritual (where rituals are performed, where priests gather)"
+material_presence: "The Gateway of the Sun (the specific architectural feature with the Staff God carved into it)"
+notes: >
+  The Kalasasaya, a monumental platform at the heart of Tiwanaku, organized ritual space and movement through carved
+  monoliths, sunken courts, and axial gateways. These architectural features choreographed how people encountered deities,
+  ancestors, and sky. Ritual drama here was not backdrop to politics; it was politics itself: authority was made credible
+  in stone and renewed through calendrical ceremony keyed to the solar year.
+
+  The Gateway of the Sun, facing the solstice sunrise, carries the carved imagery of the Staff God (Viracocha). This alignment
+  links divine power with the rhythm of the landscape and celestial cycles — a living Pacha. Thus, the temple is not a "sky
+  shrine" alone but a land-sky unifier: the sacred mountain (apu), the rain, the sun, and the subterranean waters all flow
+  through it as parts of one Pacha-being.
+
+  Archaeoastronomy has documented the temple's careful orientations, placing horizon alignments and sightlines on firmer
+  methodological footing. These connect to calendrical reckoning and ritual scheduling in a city where public architecture
+  mediated seasonal time, agricultural labor, and state ceremony. The Kalasasaya transformed the cosmos into ceremony, making
+  the invisible visible: the sun's passage became obligation, the stars became schedule, and stone became the body of reciprocity
+  between sky, earth, and community.
+
+  By 992 CE, Tiwanaku's authority rested on the Kalasasaya: a ritual center where the living world synchronized its heartbeat
+  with Hanan Pacha's celestial cycles, and the priests who gathered at its gates could read the messages written in light and
+  stone. In the scene, priests at Kalasasaya's gates witnessed the comet's passage three years prior—a sign that the temple's
+  carefully ordered reciprocity was beginning to unravel.

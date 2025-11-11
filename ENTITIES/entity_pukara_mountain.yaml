@@ -1,0 +1,25 @@
+# ENTITIES/entity_pukara_mountain.yaml
+
+entity_id: entity_pukara_mountain
+name: "Pukara, Sacred Mountain"
+domain: [hana, kay, ukhu]
+essence: "The Apus inhabit, unify, and animate all three Pachas. They are cosmic bridges — ancestors that stand between sky, earth, and inner world — ensuring the cycle of life, water, and meaning continues without break."
+relations:
+  - Khunu
+  - The Elder
+  - Lake Titicaca
+  - The Comet
+  - Kalasasaya Temple
+  - The Community
+appears_through: "Memory (countless generations of presence)"
+material_presence:
+  - "Stone/granite (the mountain's physical form)"
+  - "Shadow (Pukara's shadow rose against them)"
+notes: >
+  Pukara means 'fortress' in Aymara. Pukara was revered as a protector of the Tiwanaku heartland near Lake Titicaca.
+  Apu Pukara was not only a mountain but a living guardian — a point where earth and sky met, where the Tiwanaku people
+  sought dialogue with the sacred forces that sustained life on the Altiplano. In 992 CE the Tiwanaku civilization was
+  in decline or approaching rapid decline. Core samples from Lake Titicaca suggest that a period of severe drought had
+  started to set in, coming into full effect during the 11th century CE. Some studies believe that political upheaval
+  occurred prior to this climactic shift. Pukara represents the protector of Tiwanaku who was not respected during this
+  period of political upheaval and played a role in the climate shift that came after.

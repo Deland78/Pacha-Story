@@ -1,0 +1,20 @@
+# ENTITIES/entity_khunu.yaml
+
+entity_id: khunu
+name: "Khunu"
+domain: kay
+essence: "The eyes through which Pacha knows itself"
+relations:
+  - The Elder
+  - Pukara
+  - Lake Titicaca
+  - The Comet
+  - The Staff God
+appears_through: "Witnessing"
+material_presence: "His eyes"
+notes: >
+  Khunu is Aymara for snowfall. Snow (khunu) is the purest form of water, untouched by the world below.
+  As a name, Khunu signifies: Purity of heart or spirit, Integrity—someone untouched by corruption,
+  Clarity and calm. Khunu is a minor character meant to give the scene a presence. He is not a figure
+  of major significance—simply an observer whose consciousness brings the reader into the threshold
+  of the three Pachas as a witness from the Tiwanaku perspective.

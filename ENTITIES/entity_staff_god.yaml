@@ -1,0 +1,41 @@
+# ENTITIES/entity_staff_god.yaml
+
+entity_id: entity_staff_god
+name: "Viracocha, The Staff God"
+domain: [hana, kay, ukhu]
+essence: "The primordial force that created all three Pachas and continues to sustain their balance — Creator and maintainer."
+relations:
+  - The Elder
+  - Khunu
+  - Lake Titicaca
+  - The Community
+  - Pacha
+  - Pukara
+appears_through: "Reciprocity/exchange (the principle made visible through ayni)"
+material_presence: "The textile/cloth (the draped garment on The Elder)"
+notes: >
+  The Staff God as a Pacha Mediator:
+  In Tiwanaku and earlier Chavín imagery, the Staff God stands at the axis of worlds — often between mirrored halves
+  or in the center of a cosmogram. This positioning expresses the center of Pacha, the taypi or chawpi — the meeting place
+  of Hanan Pacha (upper world of sky and deities), Kay Pacha (living world of humans and earth), and Ukhu Pacha (inner or
+  underworld of ancestors and fertility). By standing upright, holding staffs that may symbolize dual cosmic powers
+  (masculine–feminine, sun–rain, order–chaos), the Staff God acts as a bridge across all three Pachas.
+
+  Embodiment of Cosmic Order and Renewal:
+  In the Tiwanaku worldview, Pacha is not just space or time — it is the living fabric of cycles. The Staff God embodies
+  the ordering principle that periodically restores balance when one Pacha overextends or falls into disorder (droughts,
+  floods, societal collapse). Each renewal — like the rising of the sun at solstice or the re-emergence of rains — is a
+  Pachacuti, a turning or world reversal. The Staff God presides over these transformations as the keeper of cosmic equilibrium.
+
+  Pacha as Sacred Geography:
+  At Tiwanaku, the Staff God's imagery is carved into the Gateway of the Sun, facing the solstice sunrise. This alignment
+  links divine power with the rhythm of the landscape and celestial cycles — a living Pacha. Thus, he is not a "sky god"
+  alone but a land-sky unifier: the sacred mountain (apu), the rain, the sun, and the subterranean waters all flow through
+  him as parts of one Pacha-being.
+
+  Continuity into Inca Thought:
+  When the Inca later adopted and renamed this deity as Viracocha, they preserved his Pacha-bridging role. Viracocha was
+  said to have emerged from Lake Titicaca (a liminal Pacha between land and sky) to bring form, order, and time itself into
+  being — and then to vanish across the sea. His emergence and departure mark transitions in Pacha, the beginnings and
+  endings of cosmic epochs. In 992 CE, the Staff God's presence in the textile worn by The Elder affirms that reciprocity
+  and cosmic order must continue even as balance shifts toward transformation.

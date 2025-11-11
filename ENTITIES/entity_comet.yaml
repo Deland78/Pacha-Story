@@ -1,0 +1,25 @@
+# ENTITIES/entity_comet.yaml
+
+entity_id: entity_comet
+name: "The Comet, Messenger of the Ancestors"
+domain: hana
+essence: "Announces the moment when Pacha begins to fold — The turning point made visible."
+relations:
+  - Khunu
+  - The Elder
+  - Pukara
+  - Lake Titicaca
+  - The Suka Kollus
+  - The Community
+  - Kalasasaya Temple
+appears_through: "Memory"
+material_presence: "The tail"
+notes: >
+  This comet is Halley's Comet. Astronomical records dating back to this time period show that it likely would have
+  passed over the skies of Tiwanaku in the year 989 CE. Halley's Comet passes Earth approximately every 76 years,
+  roughly the lifespan of a human. Pre-Inca civilizations would have had intimate knowledge of the patterns of the skies.
+  Through ancestral worship and the passage of wisdom, they would have known and anticipated the comet's arrival.
+  Other perihelion passages: 1456 CE, 1531 CE, 1986 CE. Its appearance in 989 CE was read by the Tiwanaku people as a sign
+  of Pachacuti (the folding of Pacha) and triggered the political upheaval which preceded the climate shift that eventually
+  led to the complete collapse of their civilization between 1000–1100 CE. For this scene, the comet serves as both
+  prophecy and confirmation: the ancestors speak, and the living witness the unfolding of what was foretold.

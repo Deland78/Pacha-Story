@@ -1,0 +1,29 @@
+# ENTITIES/entity_burial_mound.yaml
+
+entity_id: entity_burial_mound
+name: "The Burial Mound, Threshold of Passage"
+domain: [kay, ukhu]
+essence: "Where the living world releases its dead to the inner world, completing the cycle of reciprocity — Threshold of exchange."
+relations:
+  - Khunu
+  - The Elder
+  - The Community
+  - Pacha
+  - Lake Titicaca
+appears_through: "Opening/reception (the mound receives, opens to take in)"
+material_presence: "The earth/soil (the mound itself, gathered earth)"
+notes: >
+  The burial mound is a liminal space where the living world meets Ukhu Pacha. In Andean cosmology, death is not an ending
+  but a transformation: the Elder descends into the earth not to disappear but to become an ancestor—a presence that continues
+  to influence and protect the living.
+
+  Burial itself is an act of reciprocity. By honoring and interring the dead with care, the living maintain the covenant (*ayni*)
+  that binds them to their ancestors. In turn, the ancestors—now in Ukhu Pacha—guide, warn, and sustain the living through dreams,
+  omens, and ancestral knowledge carried in memory and ritual.
+
+  This mound will serve as a threshold in future scenes: a place where the boundary between realms grows thin, where the living
+  may encounter ancestral presences, and where the ongoing dialogue between Kay Pacha and Ukhu Pacha continues to unfold.
+
+  The mound embodies a core principle of pre-Columbian Andean life: that the dead are never truly gone, and that community includes
+  both the living and the ancestors. Through continued ritual, offering, and remembrance, the living keep their ancestors alive, and
+  the ancestors continue to weave themselves into the fabric of the living world.

@@ -1,0 +1,20 @@
+# ENTITIES/entity_the_elder.yaml
+
+entity_id: entity_the_elder
+name: "The Elder"
+domain: ukhu
+essence: "Transforms the living's reciprocity into ancestral memory"
+relations:
+  - Khunu
+  - The Comet
+  - The Staff God
+  - The Burial Mound
+appears_through: "Descent/transition"
+material_presence: "The bundled form"
+notes: >
+  The Elder is intentionally nameless and is a symbolic representation of Ukhu Pacha.
+  In 992 CE, research suggests that the Tiwanaku had stopped practicing formal ritual burials.
+  This burial would have been relatively simple and done in a village outside of the ritual center.
+  Elders were seen as carriers of wisdom. This Elder would have interpreted the comet and known its meaning.
+  In death, the Elder becomes a messenger between the living world and the ancestral realm, carrying
+  the weight of the transformation from abundance to loss.

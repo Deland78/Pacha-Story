@@ -1,0 +1,31 @@
+# ENTITIES/entity_raised_fields.yaml
+
+entity_id: entity_raised_fields
+name: "The Suka Kollus, Mirrors of Cosmic Order"
+domain: [kay, ukhu]
+essence: "The measure of humanity's covenant with the inner world — failing when reciprocity breaks. Barometer of cosmic balance."
+relations:
+  - The Community
+  - The Comet
+  - Pacha
+appears_through: "Failure/decay (yielding less each season, no longer mirrors of order)"
+material_presence: "The raised platforms (the earth itself)"
+notes: >
+  The raised-field landscapes (waru-waru in Quechua, suka kollu in Aymara) that lace the flat pampas around Lake Titicaca
+  embody the coupling of cosmology and agronomy. Built as linear platforms separated by canals, they buffered frost,
+  stored heat, and conserved water, making high-altitude farming more reliable and productive. These fields were agricultural
+  infrastructure and cosmological maps, inscribing ordered water and earth on a landscape where Pachamama and sky demanded reciprocity.
+
+  Archaeologists and agronomists (particularly Clark Erickson and collaborators) working in the basin before 1992 documented
+  the extent of raised fields and reconstructed them in experimental plots — dramatically improving yields of potatoes,
+  quinoa, and tubers. Field experiments reframed ancient fields not as relics but as viable technologies whose engineering
+  and scale are beyond dispute.
+
+  Tiwanaku's economy depended on agropastoral risk management: communities relied on raised fields, herding, vertical access
+  to ecological tiers, and shared labor to manage the extreme altiplano conditions. Frost and hydrology shaped everything —
+  waru-waru mitigated cold, canals trapped heat. The maintenance of these fields required constant reciprocal labor: shared
+  canal cleaning, ritual timing of planting, communal feasts. When abandoned or neglected, they fail.
+
+  By 992 CE, the suka kollus represented the mature Tiwanaku achievement: engineered earth made sacred, labor made prayer,
+  and abundance made possible through the lived covenant between humans and Pachamama. In the scene, their failure and the
+  choking of channels with silt and silence signals the breaking of that covenant—a visible sign of Pacha's folding.
