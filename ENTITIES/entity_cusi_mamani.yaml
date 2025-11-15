@@ -1,0 +1,22 @@
+# ENTITIES/entity_cusi_mamani.yaml
+
+entity_id: cusi_mamani
+name: "Cusi Mamani"
+domain: kay
+essence: "The embodied presence not yet called to witness"
+relations:
+  - Dr. Carlos Mamani
+  - Jennifer Mamani
+  - Maya Mamani
+appears_through: "Yawning, direct challenges, physical presence (poking pottery shards)"
+material_presence: "Ten-year-old body, dragging feet, head on father's thigh"
+notes: >
+  Cusi (meaning "joy" or "happiness" in Quechua) is the younger daughter (10 years old) who shows
+  less interest in her father's archaeological lessons. She yawns, challenges ("But they cannot speak"),
+  and prefers immediate physical experience (sleep on air mattress) to contemplation. However, she
+  experiences the meteor shower with pure delight ("Ooooh! Did you see that one?"), suggesting her
+  connection to Pacha is through joy and sensory wonder rather than intellectual understanding. Her
+  presence represents a valid alternative relationship to ancestral knowledge—not every generation
+  must become threshold-walkers. Some may simply live joyfully in Kay Pacha, carrying forward lineage
+  through being rather than witnessing. The name "munaycha" (her pet-name, meaning "pretty/cute one")
+  her father uses reveals his tender acceptance of who she is.

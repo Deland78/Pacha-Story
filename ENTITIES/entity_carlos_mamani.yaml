@@ -1,0 +1,24 @@
+# ENTITIES/entity_carlos_mamani.yaml
+
+entity_id: carlos_mamani
+name: "Dr. Carlos Mamani"
+domain: kay
+essence: "The bridge between ancestral memory and modern understanding"
+relations:
+  - Jennifer Mamani
+  - Maya Mamani
+  - Cusi Mamani
+  - Khunu
+  - The Staff God
+  - Akapana Pyramid
+  - Lake Titicaca
+appears_through: "Archaeological excavation, storytelling, pachakuti vision"
+material_presence: "Weathered hands, Incan features (high cheekbones, broad forehead, highland soil-colored eyes), textile fragments"
+notes: >
+  Carlos is an archaeologist of Incan lineage excavating Tiwanaku sites in the 1990s. He carries both
+  scientific rigor and deep reverence for his ancestors. His experience of pachakuti during the meteor
+  shower reveals him as someone whose indigenous heritage allows him to perceive the folding of time
+  when Pacha chooses to reveal itself. He teaches his daughters about reciprocity and the speaking of
+  ancestors through material culture. His connection to Khunu across a thousand years suggests that
+  certain individuals serve as witnesses across time—their consciousness creating continuity in Pacha's
+  self-knowing.

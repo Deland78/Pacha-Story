@@ -1,0 +1,21 @@
+# ENTITIES/entity_meteor_shower.yaml
+
+entity_id: meteor_shower
+name: "The Meteor Shower (1992)"
+domain: hana
+essence: "Celestial echo that marks moments when time folds"
+relations:
+  - The Comet (W01)
+  - Dr. Carlos Mamani
+  - Lake Titicaca
+  - Khunu (across temporal threshold)
+appears_through: "Brilliant streaks across night sky, ten simultaneous meteors, stars singing"
+material_presence: "Light trails, reflected in phantom lake surface, thin altiplano air"
+notes: >
+  The 1992 meteor shower functions as a celestial echo of the comet witnessed by Khunu in 992 CE (W01).
+  Both cosmic displays mark moments of pachakuti—temporal folding where past and present become
+  simultaneously visible. The climactic moment when ten meteors cross the sky simultaneously triggers
+  Carlos's vision of the ancient lake, suggesting certain cosmic patterns create thresholds in Pacha's
+  fabric. The meteor shower sings where the comet warned—different tonalities of the same message
+  from Hanan Pacha. The daughters count and compete to spot meteors, experiencing wonder without
+  knowing they witness a cosmic anniversary of their ancestor Khunu's vigil a millennium prior.

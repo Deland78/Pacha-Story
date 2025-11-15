@@ -92,9 +92,13 @@ def gather_entities(base: Path) -> Dict[str, dict]:
         display = data.get("name") or data.get("entity_id") or path.stem
         domain = data.get("domain")
         node_id = f"entity_{slug(display)}"
+        # Handle domain as string or list
+        if isinstance(domain, list):
+            domain = domain[0] if domain else None
+        domain_str = (domain or "").strip().lower() if domain else None
         results[display] = {
             "node_id": node_id,
-            "domain": (domain or "").strip().lower() or None,
+            "domain": domain_str or None,
             "label": display,
         }
     return results
@@ -110,12 +114,16 @@ def gather_weavings(base: Path) -> Dict[str, dict]:
             continue
         data = load_yaml(path)
         weaving_id = str(data.get("weaving_id") or path.stem)
-        domain = (data.get("domain") or "").strip().lower() or None
+        domain = data.get("domain")
+        # Handle domain as string or list
+        if isinstance(domain, list):
+            domain = domain[0] if domain else None
+        domain_str = (domain or "").strip().lower() if domain else None
         title = (data.get("title") or "").strip()
         node_id = f"weaving_{slug(weaving_id)}"
         results[weaving_id] = {
             "node_id": node_id,
-            "domain": domain,
+            "domain": domain_str or None,
             "title": title,
             "weaving_id": weaving_id,
         }

@@ -16,14 +16,18 @@ Each arc opens with a stylized quipu diagram showing:
 - Highlighted cord: which timeline the reader inhabits
 
 **Presentation Order (Outer to Inner)**
-1. **992 AD - Tiwanaku, ritual planting season**
-   - Ancestral community tending waru-waru fields, tracking horizons, reading celestial signs.
-   - Establish symbols (Staff God figure, meteor motifs, reciprocity with water and sky).
-   - Tone: swift, ceremonial snapshot.
-2. **1992 AD - Copacabana, Bolivia**
-   - Archaeologist returns to Lake Titicaca, recalling the 1986 meteor shower while investigating LiDAR anomalies.
-   - Discovers the golden Staff God figure, tying modern inquiry to ancestral offerings.
-   - Tone: reflective, bridging science with intuition.
+1. **992 CE - Tiwanaku, burial ritual**
+   - Khunu witnesses the Elder's burial under a comet's warning light.
+   - Ancestral community facing crisis: failing raised fields (suka kollus), receding Lake Titicaca.
+   - Staff God textile placed with the Elder; three Pachas converge in ritual moment.
+   - Establishes symbols: comet as omen, textile patterns as teaching, reciprocity with earth and sky breaking down.
+   - Tone: solemn, ceremonial, threshold between worlds.
+2. **1992 AD - Tiwanaku, Akapana Pyramid excavation**
+   - Dr. Carlos Mamani (archaeologist of Incan lineage) excavates elaborate textiles including Staff God weaving.
+   - During meteor shower, experiences pachakuti—temporal folding where he sees Lake Titicaca at pyramid's ancient shoreline.
+   - His wife Jennifer and daughters Maya (13) and Cusi (10) witness the cosmic display with him.
+   - The meteor shower echoes the comet from 992 CE; Carlos perceives connection to Khunu's ancient vigil.
+   - Tone: wonder-filled, bridging scientific excavation with ancestral memory and family transmission of knowledge.
 3. **1452 AD - Chucuito, early chasqui life**
    - Sixteen-year-old runner witnessing Inca consolidation, learning routes, absorbing rituals from elders.
    - First encounters with trance states where ancestral voices bleed into present sensation.
@@ -44,10 +48,11 @@ Each arc opens with a stylized quipu diagram showing:
 - Golden-ratio inspiration guides the feel (not exact math): more frequent returns to the chasqui as readers near the center.
 
 ## Celestial and Historical Anchors
+- **Comet (992 CE)**: witnessed over Tiwanaku during the Elder's burial, marking the beginning of crisis and breakdown of reciprocity.
 - **Halley's Comet**: referenced in 1452 as anticipated, witnessed fully in 1531 as confirmation of *pachakuti*.
 - **1492 Annular Eclipse**: unseen by the chasqui but revealed to readers as a line through Costa Rica, Panama, Colombia, and Brazil, underscoring hidden upheaval.
 - **1531–1532 Crises**: smallpox devastates highland communities, the Huascar-Atahualpa civil war rages, and rumors of Spanish armies moving toward Cuzco reach him via messenger chain.
-- **Modern Skywatching**: 1986 Halley's Comet witnessed by the archaeologist in youth; a 1992 Lake Titicaca meteor shower revives that memory and mirrors ancestral omens.
+- **Modern Skywatching**: 1992 meteor shower over Tiwanaku triggers Dr. Carlos Mamani's pachakuti vision, connecting him across time to Khunu's ancient vigil under the comet. The meteor shower serves as celestial echo of the 992 CE comet.
 
 ## Key Thematic Elements
 
@@ -65,12 +70,13 @@ Each arc opens with a stylized quipu diagram showing:
 ### Generational and Emotional Cycles
 - Duty pulling the chasqui from family, mirroring absences across generations.
 - Awareness that cycles cannot be broken, only illuminated by signs left for descendants.
-- The Staff God figure as a tangible message threaded through time.
+- The Staff God textile as a tangible message threaded through time—teaching passed from ancient Tiwanaku weavers through the Elder's burial to modern archaeological discovery.
 
-### Staff God of Tiwanaku
-- Golden figure buried with the chasqui per his instructions.
-- Symbol of pre-Inca heritage and continuity across empires.
-- Recovered in 1992, connecting ritual lineage with modern scholarship.
+### Staff God Textile
+- Elaborate textile with warp-faced stripe patterns and polychrome weaving depicting the Staff God.
+- Placed with the Elder during the 992 CE burial as vessel of continued reciprocity.
+- Symbol of pre-Inca Tiwanaku heritage and teaching transmitted through weaving.
+- Excavated by Dr. Carlos Mamani in 1992 at Akapana Pyramid, serving as physical anchor connecting his pachakuti vision to Khunu's ancient witnessing.
 
 ## Emotional Core
 Evoke transcendental awareness: readers feel time layered rather than linear, understanding that emotional truth can travel through ritual, sky, and artifact even when history fractures. The chasqui embraces leaving signs rather than solutions, trusting future generations to interpret them.

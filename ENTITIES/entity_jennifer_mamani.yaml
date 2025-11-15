@@ -1,0 +1,20 @@
+# ENTITIES/entity_jennifer_mamani.yaml
+
+entity_id: jennifer_mamani
+name: "Jennifer Mamani"
+domain: kay
+essence: "The grounding presence that holds the threshold-walker"
+relations:
+  - Dr. Carlos Mamani
+  - Maya Mamani
+  - Cusi Mamani
+appears_through: "Sketching, hand-weaving gesture, intuitive perception"
+material_presence: "Folding chair, sketchbook, lightweight blanket, intertwined fingers"
+notes: >
+  Jennifer is Carlos's wife, an artist who sketches the excavation sites. Though she does not
+  experience the pachakuti vision directly, she possesses an intuitive awareness that allows her
+  to sense when Carlos "leaves"—when his consciousness crosses temporal thresholds. Her gesture
+  of weaving her fingers through his serves as an anchor, grounding him when he becomes lost in
+  ancestral presence. She represents a different form of witnessing—not seeing but feeling, not
+  knowing but trusting. Her role as mother and partner creates the family structure through which
+  ancestral knowledge passes to the next generation.

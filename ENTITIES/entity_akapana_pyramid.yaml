@@ -1,0 +1,23 @@
+# ENTITIES/entity_akapana_pyramid.yaml
+
+entity_id: akapana_pyramid
+name: "Akapana Pyramid"
+domain: [kay, ukhu]
+essence: "Terraced threshold where excavation unearths layered time"
+relations:
+  - Dr. Carlos Mamani
+  - Staff God Textile
+  - Lake Titicaca (ancient shoreline)
+  - The Elder (W01)
+appears_through: "Archaeological trenches, terraced levels, soil layers, textile fragments"
+material_presence: "Earth, stone, warp-faced stripe patterns, polychrome weavings, pottery shards"
+notes: >
+  The Akapana Pyramid is one of Tiwanaku's largest structures, a terraced temple platform that once
+  stood at the ceremonial heart of the city. In the 1990s excavations, it yields elaborate textiles
+  including the Staff God weaving that serves as a physical anchor connecting Carlos to Khunu's time.
+  The pyramid's terraced levels mirror the three Pachas—ascending from Ukhu through Kay toward Hanan.
+  During Carlos's pachakuti vision, he sees Lake Titicaca lapping at its base, revealing the pyramid's
+  original relationship to water (now over 20km away). The pyramid holds memories in its soil—each
+  layer a temporal stratum. Carlos's daughters play on its levels, unknowingly touching the same stones
+  that witnessed the Elder's burial a thousand years before. Archaeological excavation becomes a form
+  of ritual—carefully brushing away time to reveal what speaks beneath.

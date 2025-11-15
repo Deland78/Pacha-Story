@@ -1,7 +1,18 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(python update_khipu.py:*)",
+      "Bash(git commit:*)",
+      "Bash(winget:*)",
+      "Bash(where:*)",
+      "Bash(\"C:\\Program Files\\Graphviz\\bin\\dot.exe\" --version)",
+      "Bash(python export_quipu_graph.py:*)",
+      "Bash(\"C:\\Users\\korab.eland\\AppData\\Local\\Programs\\Python\\Python313\\python.exe\" -m pip install pyyaml)",
+      "Bash(\"C:\\Users\\korab.eland\\AppData\\Local\\Programs\\Python\\Python313\\python.exe\" export_quipu_graph.py --output \"Visual Quipu Builder/quipu.svg\" --format svg)",
+      "Bash(\"C:\\Users\\korab.eland\\AppData\\Local\\Programs\\Python\\Python313\\python.exe\" export_quipu_graph.py --output \"Visual Quipu Builder/quipu.dot\" --format dot)",
+      "Bash(\"C:\\Program Files\\Graphviz\\bin\\dot.exe\" -Tsvg \"G:\\Shared drives\\K-D\\stories\\Collab\\Pacha-Story\\Visual Quipu Builder\\quipu.dot\" -o \"G:\\Shared drives\\K-D\\stories\\Collab\\Pacha-Story\\Visual Quipu Builder\\quipu.svg\")",
+      "WebSearch"
     ],
     "deny": [],
     "ask": []

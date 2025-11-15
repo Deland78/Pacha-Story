@@ -34,12 +34,22 @@ cords:
   - The Community
   - The Elder
   - The Burial Mound
+  - Dr. Carlos Mamani
+  - Meteor Shower
   color: multi-colored (gold-earth-obsidian)
-  notes: The witness becomes the threshold where all three Pachas meet and speak as one.
+  notes: The witness becomes the threshold where all three Pachas meet and speak as
+    one. This cord connects witnesses across time—Khunu and Carlos—both experiencing
+    pachakuti when cosmic events align.
   knots:
   - weaving_id: W01
     knot_type: encounter
-    transformation: "Clarity of sight: the folding of Pacha becomes visible to one who watches with pure heart — Truth made manifest."
+    transformation: 'Clarity of sight: the folding of Pacha becomes visible to one
+      who watches with pure heart — Truth made manifest.'
+  - weaving_id: W02
+    knot_type: vision
+    transformation: 'Witnessing transcends linear time: Carlos perceives Khunu''s
+      moment across a millennium, proving that those who watch with reverence become
+      threads in Pacha''s eternal weaving — The witness recognizes the witness.'
 - name: Descent into Becoming
   type: ritual
   connects:
@@ -51,18 +61,32 @@ cords:
   knots:
   - weaving_id: W01
     knot_type: transformation
-    transformation: "The Elder becomes ancestor; the mound becomes threshold — The passage is sealed and sacred."
+    transformation: The Elder becomes ancestor; the mound becomes threshold — The
+      passage is sealed and sacred.
 - name: The Measure of Balance
   type: reciprocity
   connects:
   - The Community
   - The Suka Kollus
+  - Dr. Carlos Mamani
+  - Staff God Textile
+  - Maya Mamani
+  - Cusi Mamani
   color: earth
-  notes: The covenant between humans and Pachamama, now failing.
+  notes: The covenant between humans and Pachamama, measured through teaching and
+    transmission. What was failing in 992 CE becomes remembered wisdom in 1992—teaching
+    passed through textile patterns across generations.
   knots:
   - weaving_id: W01
     knot_type: conflict
-    transformation: "The fields no longer mirror cosmic order—the breach between human and earth is made visible — Order shattered."
+    transformation: The fields no longer mirror cosmic order—the breach between human
+      and earth is made visible — Order shattered.
+  - weaving_id: W02
+    knot_type: memory
+    transformation: 'Carlos teaches his daughters that ancestors speak through woven
+      patterns and earth layers: the covenant is remembered even when broken, passed
+      from great-great-grandmothers to modern children through reverence and attention
+      — Teaching becomes the new reciprocity.'
 - name: Stone and Water
   type: stone and water
   connects:
@@ -73,37 +97,70 @@ cords:
   knots:
   - weaving_id: W01
     knot_type: union
-    transformation: "Stone endures while water refuses—the two cosmic powers express the crisis differently — Divergence in response."
+    transformation: Stone endures while water refuses—the two cosmic powers express
+      the crisis differently — Divergence in response.
 - name: Celestial Interpreter
   type: dream
   connects:
   - The Comet
   - Kalasasaya Temple
+  - Meteor Shower
+  - Akapana Pyramid
   color: gold
-  notes: The message from the stars and the stone gateway that reads it.
+  notes: The message from the stars and the stone gateways that read it. Cosmic displays
+    mark moments when Pacha reveals its folded nature—comet and meteor shower as celestial
+    echoes across time.
   knots:
   - weaving_id: W01
     knot_type: memory
-    transformation: "The temple guards the axis where sky and earth meet; the comet's path shows that axis tilting—imbalance written in light — The center no longer holds."
+    transformation: The temple guards the axis where sky and earth meet; the comet's
+      path shows that axis tilting—imbalance written in light — The center no longer
+      holds.
+  - weaving_id: W02
+    knot_type: memory
+    transformation: 'The meteor shower sings where the comet warned: ten simultaneous
+      streaks echo the ancient omen, revealing that Hanan Pacha speaks in cycles—the
+      same message repeated across generations for those who remember how to listen
+      — Celestial memory encoded in light.'
 entities_index:
+- id: akapana_pyramid
+  file: ENTITIES/entity_akapana_pyramid.yaml
+- id: apu_qocha
+  file: ENTITIES/entity_apu_qocha.yaml
+- id: carlos_mamani
+  file: ENTITIES/entity_carlos_mamani.yaml
+- id: cusi_mamani
+  file: ENTITIES/entity_cusi_mamani.yaml
+- id: entity_burial_mound
+  file: ENTITIES/entity_burial_mound.yaml
+- id: entity_comet
+  file: ENTITIES/entity_comet.yaml
+- id: entity_kalasasaya_temple
+  file: ENTITIES/entity_kalasasaya_temple.yaml
+- id: entity_lake_titicaca
+  file: ENTITIES/entity_lake_titicaca.yaml
+- id: entity_pukara_mountain
+  file: ENTITIES/entity_pukara_mountain.yaml
+- id: entity_raised_fields
+  file: ENTITIES/entity_raised_fields.yaml
+- id: entity_staff_god
+  file: ENTITIES/entity_staff_god.yaml
+- id: entity_the_elder
+  file: ENTITIES/entity_the_elder.yaml
+- id: jennifer_mamani
+  file: ENTITIES/entity_jennifer_mamani.yaml
 - id: khunu
   file: ENTITIES/entity_khunu.yaml
-- id: the_elder
-  file: ENTITIES/entity_the_elder.yaml
-- id: pukara_mountain
-  file: ENTITIES/entity_pukara_mountain.yaml
-- id: lake_titicaca
-  file: ENTITIES/entity_lake_titicaca.yaml
-- id: comet
-  file: ENTITIES/entity_comet.yaml
-- id: staff_god
-  file: ENTITIES/entity_staff_god.yaml
-- id: raised_fields
-  file: ENTITIES/entity_raised_fields.yaml
-- id: kalasasaya_temple
-  file: ENTITIES/entity_kalasasaya_temple.yaml
-- id: burial_mound
-  file: ENTITIES/entity_burial_mound.yaml
+- id: maya_mamani
+  file: ENTITIES/entity_maya_mamani.yaml
+- id: meteor_shower
+  file: ENTITIES/entity_meteor_shower.yaml
+- id: naira
+  file: ENTITIES/entity_naira.yaml
+- id: river_spirit
+  file: ENTITIES/entity_river_spirit.yaml
 weavings_index:
 - id: W01
   file: WEAVINGS/W01.yaml
+- id: W02
+  file: WEAVINGS/W02.yaml
