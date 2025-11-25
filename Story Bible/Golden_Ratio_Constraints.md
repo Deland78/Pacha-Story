@@ -77,13 +77,53 @@ Rather than imposing static word limits, the architecture allows organic growth.
 
 **Chapter 4 (3 scenes)**
 - Total: 1,946 words
-- Per scene: ~649 words each
+- Per scene: ~649 words each (equal distribution)
+- **Alternative (building intensity):** 550 / 650 / 746 words
 - Scope: Multi-perspective exploration, rising complexity
 
 **Chapter 5 (5 scenes)**
 - Total: 3,149 words
 - Per scene: ~630 words each
 - Scope: Narrative crescendo, multiple storylines converging
+
+## Timeline to Chapter Mapping
+
+The story is structured across **five timelines**, with each timeline corresponding to a chapter in the golden ratio architecture:
+
+| Timeline | Chapter | Weavings | Total Words | Theme |
+|----------|---------|----------|-------------|-------|
+| 992 CE   | 1       | W01      | 458         | Tiwanaku burial, ancient witness |
+| 1992 AD  | 2       | W02      | 744         | Modern excavation, meteor shower |
+| 1452 AD  | 3       | W06-W07  | 1,203       | Chasqui's birth/early life |
+| **1532 AD** | **4** | **W03-W05** | **1,946** | **Chasqui's death, empire's collapse** |
+| 1492 AD  | 5       | W08-W12  | 3,149       | Chasqui at midlife, inner core |
+
+### 1532 Timeline (Chapter 4) - Specific Weaving Targets
+
+**Total for 1532 arc: 1,946 words** (distributed across 3 weavings)
+
+**Recommended Distribution (Building Intensity):**
+
+- **W03: "Strange Winds from Distant Waters"**
+  - Target: **550 words**
+  - Scope: Grandson arrives, triggering memory of son bringing Spanish rumors
+  - Focus: Establishing deathbed frame, epistemological crisis (information becoming unreliable)
+  
+- **W04: "The Sapa Inca Falls, The Comet Warned"**
+  - Target: **650 words**
+  - Scope: Layered memories through all three domains (disease, civil war, 1531 comet, 1492 youth)
+  - Focus: Fevered consciousness, temporal fluidity, recognition of pattern
+  
+- **W05: "The Final Comet, The Final Breath"**
+  - Target: **746 words**
+  - Scope: Climax - the 1532 comet appears, news of Cajamarca, death synchronized with cosmic witness
+  - Focus: Transcendent witnessing, passage to Ukhu Pacha, three generations present
+
+**Alternative (Equal Distribution):**
+- All three weavings: ~649 words each
+
+**Rationale for Building Intensity:**
+The 1532 arc is the **emotional climax** of the entire story cycle. The building word count (550→650→746) mirrors the emotional acceleration from confusion through grief to transcendent witnessing, while staying within the golden ratio constraint for Chapter 4.
 
 ### Flexibility Guidelines
 

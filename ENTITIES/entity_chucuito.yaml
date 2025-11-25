@@ -1,0 +1,24 @@
+# ENTITIES/entity_chucuito.yaml
+
+entity_id: chucuito
+name: "Chucuito"
+domain: kay
+essence: "The dwelling place that outlasts empire, witness to Tiwanaku and Inca, waiting for Spanish"
+relations:
+  - Lake Titicaca
+  - The Chasqui (dies here)
+  - Tiwanaku Ruins (ancient predecessor)
+  - Collasuyu (quarter of empire)
+  - The Ayllu (community structure)
+appears_through: "Adobe walls, highland cold, altiplano wind, the threshold between dwelling and sky"
+material_presence: "Stone walls, earthen floor, textiles, coca smoke, the opening to night sky"
+notes: >
+  Actual historical location on southeastern shore of Lake Titicaca, in Collasuyu (southern quarter
+  of Tawantinsuyu). Center of Aymara-speaking community organized in ayllus. During Inca civil war,
+  region aligned with Huáscar; after Atahualpa's victory, local elites found themselves on losing side.
+  Chucuito represents the permanence of place against the impermanence of empire—Tiwanaku collapsed,
+  Inca will collapse, Spanish will come, but Chucuito endures as dwelling place, as community, as
+  particular location on sacred geography. The Chasqui's dwelling in Chucuito becomes threshold space
+  where interior (deathbed) meets exterior (mountains, sky, comet), where kay pacha meets ukhu pacha,
+  where personal passage mirrors imperial collapse. The town itself is a presence—neither backdrop
+  nor setting, but witness with its own memory stretching back through Tiwanaku times.

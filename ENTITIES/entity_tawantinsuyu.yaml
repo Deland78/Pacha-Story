@@ -1,0 +1,28 @@
+# ENTITIES/entity_tawantinsuyu.yaml
+
+entity_id: tawantinsuyu
+name: "Tawantinsuyu"
+domain: kay
+essence: "The empire dying—body politic dissolving as messenger networks fail"
+relations:
+  - The Chasqui (bound it through messages)
+  - The Chasqui Network (its nervous system)
+  - Huayna Capac (dead Sapa Inca)
+  - Huáscar and Atahualpa (brother against brother)
+  - The Strange Disease (smallpox)
+  - The Strangers (Spanish)
+  - Collasuyu (one of four quarters)
+appears_through: "Fractured quipu cords, impossible news, civil war reports, the silencing of imperial voice"
+material_presence: "Messages that no longer bind, roads that still run but carry dissolution, the absence of center"
+notes: >
+  The empire itself as presence, as entity experiencing death parallel to the Chasqui's personal death.
+  Tawantinsuyu (Quechua: "The Four Parts Together") was bound through reciprocity, mit'a labor, road
+  systems, and crucially the chasqui messenger network that allowed governance across vast distances.
+  The Chasqui in his youth helped build/maintain this binding; in his death, he witnesses its unraveling.
+  The empire's "death" begins with Huayna Capac's smallpox death (1527-28), accelerates through civil
+  war (1529-32), and culminates with Atahualpa's capture at Cajamarca (Nov 1532). But the true dissolution
+  is in the breakdown of reciprocity and communication—when messages carry impossible news, when trusted
+  networks report unbelievable events, when the center cannot hold. Tawantinsuyu is not backdrop but
+  dying presence, its breath synchronized with the Chasqui's failing breath. Yet like the Chasqui passing
+  to Ukhu Pacha, the empire's dissolution is transformation, not erasure—Andean peoples, culture, sacred
+  geography endure beyond political structure.

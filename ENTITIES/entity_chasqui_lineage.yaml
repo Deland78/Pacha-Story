@@ -1,0 +1,22 @@
+# ENTITIES/entity_chasqui_lineage.yaml
+
+entity_id: chasqui_lineage
+name: "The Messenger Lineage"
+domain: kay
+essence: "Three generations carrying messages through imperio's collapse"
+relations:
+  - The Chasqui (elder, dying)
+  - His Son (middle generation)
+  - His Grandson (youngest runner)
+  - The Chasqui Network
+  - Tawantinsuyu
+appears_through: "Footsteps arriving breathless, news spoken with runner's rhythm, three voices across time"
+material_presence: "Weathered legs, messenger's breath, quipu cords passing from hand to hand"
+notes: >
+  Rather than creating separate entities for Son and Grandson, this entity represents the generational
+  thread of message-carriers. The grandfather (The Chasqui) dies in W03-W05; his son performs deathbed
+  rituals and carries news; his grandson arrives breathless with impossible reports. The lineage continues
+  even as empire doesn't. All three are chasquis, embodying different relationships to the same role:
+  elder who built the network, middle generation witnessing its breakdown, youth who will carry messages
+  in a transformed world. Represents continuity through transformation—the pattern persists even when
+  the empire it served dissolves.

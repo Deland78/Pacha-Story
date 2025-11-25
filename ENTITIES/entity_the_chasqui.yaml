@@ -1,0 +1,26 @@
+# ENTITIES/entity_the_chasqui.yaml
+
+entity_id: the_chasqui
+name: "The Chasqui"
+domain: [kay, ukhu, hana]
+essence: "The runner who binds empire through messages, now unraveling as imperial threads snap"
+relations:
+  - His Son
+  - His Grandson
+  - Tawantinsuyu
+  - The 1532 Comet
+  - Chucuito
+  - Tiwanaku Ruins
+  - Isla Del Sol
+  - The Chasqui Network
+appears_through: "Labored breath, feverish clarity, messenger's footsteps echoing across forty years"
+material_presence: "Failing body, fever heat, comet-lit eyes, shallow breath becoming silence, quipu cords, weathered textiles"
+notes: >
+  Born ~1453 near Lake Titicaca. Vigorous chasqui messenger in youth (1492 journey to Cusco and Isla Del Sol).
+  Earned wisdom and favor through service, became ayllu leader in Chucuito. His chasqui fitness extended his
+  life to ~79 years. Dies in late 1532 witnessing both the 1532 comet and the collapse of Tawantinsuyu.
+  Represents the witness who becomes threshold—like Khunu in W01, he experiences pachakuti at the intersection
+  of cosmic event and personal transformation. Unnamed to maintain archetypal quality, connecting him to
+  "The Elder" in W01. His death mirrors the empire's death; his passage to Ukhu Pacha occurs as Tawantinsuyu
+  fragments. Three generations of chasquis (father-son-grandson) embody the continuation of message-carrying
+  even as empire dissolves.

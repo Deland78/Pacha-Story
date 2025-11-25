@@ -36,10 +36,14 @@ cords:
   - The Burial Mound
   - Dr. Carlos Mamani
   - Meteor Shower
+  - The Chasqui
+  - The 1532 Comet
+  - Chucuito
   color: multi-colored (gold-earth-obsidian)
   notes: The witness becomes the threshold where all three Pachas meet and speak as
-    one. This cord connects witnesses across time—Khunu and Carlos—both experiencing
-    pachakuti when cosmic events align.
+    one. This cord connects witnesses across time—Khunu (992), the Chasqui (1532),
+    and Carlos (1992)—all experiencing pachakuti when cosmic events align. Each becomes
+    the threshold through which Pacha knows itself.
   knots:
   - weaving_id: W01
     knot_type: encounter
@@ -50,19 +54,43 @@ cords:
     transformation: 'Witnessing transcends linear time: Carlos perceives Khunu''s
       moment across a millennium, proving that those who watch with reverence become
       threads in Pacha''s eternal weaving — The witness recognizes the witness.'
+  - weaving_id: W03
+    knot_type: encounter
+    transformation: 'The Chasqui as witness to epistemological crisis: the trusted
+      messenger network carries impossible news, reality itself fracturing — Information
+      remains reliable even as the world becomes unreliable.'
+  - weaving_id: W04
+    knot_type: vision
+    transformation: Through fever clarity, the Chasqui sees the full pattern of collapse—disease,
+      civil war, cosmic omen as one pachakuti — Empire revealed as mortal while Pacha
+      endures.
+  - weaving_id: W05
+    knot_type: transformation
+    transformation: 'The Chasqui becomes threshold at death: personal passage synchronized
+      with imperial collapse and comet''s appearance — The witness becomes what Khunu
+      was, what Carlos will recognize: the point where three Pachas converge.'
 - name: Descent into Becoming
   type: ritual
   connects:
   - The Elder
   - The Burial Mound
   - Khunu
+  - The Chasqui
+  - Chucuito
   color: obsidian
   notes: The passage from living presence to ancestral memory, witnessed and sealed.
+    From Kay Pacha to Ukhu Pacha—the transformation that makes ancestors of the living.
+    Both the Elder (992) and the Chasqui (1532) undergo this witnessed passage.
   knots:
   - weaving_id: W01
     knot_type: transformation
     transformation: The Elder becomes ancestor; the mound becomes threshold — The
       passage is sealed and sacred.
+  - weaving_id: W05
+    knot_type: transformation
+    transformation: 'The Chasqui passes from Kay to Ukhu Pacha as the comet blazes
+      overhead: his death synchronized with empire''s collapse, his breath stopping
+      as Tawantinsuyu''s coherence ends — Threshold sealed, pattern continuing.'
 - name: The Measure of Balance
   type: reciprocity
   connects:
@@ -106,10 +134,13 @@ cords:
   - Kalasasaya Temple
   - Meteor Shower
   - Akapana Pyramid
+  - The 1532 Comet
+  - The Chasqui
   color: gold
   notes: The message from the stars and the stone gateways that read it. Cosmic displays
-    mark moments when Pacha reveals its folded nature—comet and meteor shower as celestial
-    echoes across time.
+    mark moments when Pacha reveals its folded nature—992 comet, 1531/1532 comets,
+    1992 meteor shower as celestial echoes across time. THE 1532 comet is the only
+    one seen in present tense across all timelines.
   knots:
   - weaving_id: W01
     knot_type: memory
@@ -122,6 +153,75 @@ cords:
       streaks echo the ancient omen, revealing that Hanan Pacha speaks in cycles—the
       same message repeated across generations for those who remember how to listen
       — Celestial memory encoded in light.'
+  - weaving_id: W04
+    knot_type: memory
+    transformation: 'In fever-vision, the Chasqui remembers the 1531 comet blazing
+      overhead as elders debated its meaning: "Pachakuti," they whispered, world-turning
+      — The cosmic warning recognized but not yet fully understood.'
+  - weaving_id: W05
+    knot_type: transformation
+    transformation: 'The 1532 comet appears through Pacha''s temporal folding—historically
+      months past, yet present at the moment of death for those with purified sight:
+      THE singular present-tense cosmic witness across all timelines, marking the
+      synchronization of personal, imperial, and universal transformation — Hanan
+      Pacha speaks directly into the threshold moment.'
+- name: Thread of Messages
+  type: reciprocity
+  connects:
+  - The Chasqui
+  - Chasqui Lineage
+  - The Chasqui Network
+  - Tawantinsuyu
+  - Chucuito
+  color: multi-stranded
+  notes: How empires bind themselves through communication; what happens when the
+    network carries dissolution instead of cohesion. Three generations of chasquis
+    (grandfather-son-grandson) embody the continuity of message-carrying even as empire
+    dissolves. The messenger tradition persists beyond the political structure it
+    was built to serve.
+  knots:
+  - weaving_id: W03
+    knot_type: encounter
+    transformation: 'Grandson''s arrival triggers memory of son bringing impossible
+      rumors: the chasqui network remains reliable, but reality itself fractures —
+      Messages don''t fail; the world becomes strange.'
+  - weaving_id: W04
+    knot_type: conflict
+    transformation: 'The network built to unify now carries empire''s self-destruction:
+      disease reports, civil war accounts, all arriving through trusted messenger
+      chains — Communication continues even as what it communicates is collapse.'
+  - weaving_id: W05
+    knot_type: transformation
+    transformation: 'Final message sent through death itself: the dying Chasqui tells
+      his grandson to keep carrying messages even when there''s no empire to serve
+      — The pattern continues in transformed form; three generations witness the shift.'
+- name: Stone Endures, Empire Falls
+  type: stone
+  connects:
+  - Tiwanaku Ruins
+  - Pukara
+  - Lake Titicaca
+  - Chucuito
+  - Akapana Pyramid
+  - The Mountains
+  color: gray
+  notes: Sacred geography outlasting political structures. Tiwanaku fell 540 years
+    before the Chasqui's 1492 journey; Tawantinsuyu falls in his 1532 death; Spanish
+    will come; but the stones, mountains, and lake remember all and outlast all. The
+    Chasqui recognizes this pattern—empire is mortal, pacha is not.
+  knots:
+  - weaving_id: W04
+    knot_type: memory
+    transformation: 'At age 40, stopping at Tiwanaku ruins during his Cusco run, the
+      young Chasqui feels a chill: these monuments stood certain once, now five hundred
+      forty years fallen — Foreshadowing his own empire''s mortality, pattern not
+      yet consciously grasped.'
+  - weaving_id: W05
+    knot_type: return
+    transformation: 'Dying in Chucuito, the same landscape that watched Tiwanaku fall:
+      mountains patient, lake enduring, stones remembering — The Chasqui understands
+      that he becomes what Tiwanaku became, but Pacha continues; geography outlasts
+      politics.'
 entities_index:
 - id: akapana_pyramid
   file: ENTITIES/entity_akapana_pyramid.yaml
@@ -129,6 +229,12 @@ entities_index:
   file: ENTITIES/entity_apu_qocha.yaml
 - id: carlos_mamani
   file: ENTITIES/entity_carlos_mamani.yaml
+- id: chasqui_lineage
+  file: ENTITIES/entity_chasqui_lineage.yaml
+- id: chucuito
+  file: ENTITIES/entity_chucuito.yaml
+- id: comet_1532
+  file: ENTITIES/entity_1532_comet.yaml
 - id: cusi_mamani
   file: ENTITIES/entity_cusi_mamani.yaml
 - id: entity_burial_mound
@@ -159,8 +265,18 @@ entities_index:
   file: ENTITIES/entity_naira.yaml
 - id: river_spirit
   file: ENTITIES/entity_river_spirit.yaml
+- id: tawantinsuyu
+  file: ENTITIES/entity_tawantinsuyu.yaml
+- id: the_chasqui
+  file: ENTITIES/entity_the_chasqui.yaml
 weavings_index:
 - id: W01
   file: WEAVINGS/W01.yaml
 - id: W02
   file: WEAVINGS/W02.yaml
+- id: W03
+  file: WEAVINGS/W03.yaml
+- id: W04
+  file: WEAVINGS/W04.yaml
+- id: W05
+  file: WEAVINGS/W05.yaml
