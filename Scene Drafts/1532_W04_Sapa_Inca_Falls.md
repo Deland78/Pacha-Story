@@ -5,7 +5,7 @@
 
 Night folds the altiplano in cold darkness.
 
-His son chews coca leaves slow and deliberate, the ritual forming green pulp against his cheek before offering the wad to the old man's lips. Bitter. Always bitter. But the old ways open thresholds.
+Nayra's son chews coca leaves slow and deliberate, the ritual forming green pulp against his cheek before offering the wad to his father's lips. Bitter. Always bitter. But the old ways open thresholds.
 
 Women move at the dwelling's edges, preparing. Textiles. Chicha. The daughter-in-law's murmur like water over stones. His grandson has left to carry messages back—the pattern continuing even as the one who began it fails.
 

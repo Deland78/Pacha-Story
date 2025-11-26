@@ -3,7 +3,7 @@
 
 ---
 
-They carry him to the threshold.
+They carry Nayra to the threshold.
 
 His son on one side, grandson returned on the other, supporting weight that has become almost nothing. Through the doorway. Into the cold November night of Chucuito. Sky opens above him—vast, pricked with stars that have watched everything.
 

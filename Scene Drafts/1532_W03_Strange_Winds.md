@@ -5,7 +5,7 @@
 
 The grandson's footsteps arrive before his shadow.
 
-The old man hears them through the clay walls of his dwelling in Chucuito—barefoot rhythm on packed earth, the pattern he knows. A chasqui's approach, breath controlled even at altitude. His own breath comes ragged, shallow. Fever burns behind his eyes.
+Nayra hears them through the clay walls of his dwelling in Chucuito—barefoot rhythm on packed earth, the pattern he knows. A chasqui's approach, breath controlled even at altitude. His own breath comes ragged, shallow. Fever burns behind his eyes.
 
 The doorway darkens. Cold altiplano air rushes in, carrying November's edge.
 

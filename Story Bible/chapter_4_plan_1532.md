@@ -25,29 +25,6 @@
 
 **Essence:** The runner who binds empire through messages, now unraveling as imperial threads snap
 
-**Material Presence:**
-- **Youth (1492):** Strong legs, breath synchronized with altitude, quipu cords in hands
-- **Maturity:** Voice of authority in ayllu, weathered skin, ceremonial textiles
-- **Death (1532):** Failing body, fever heat, comet-lit eyes, shallow breath becoming silence
-
-**Relations:**
-- **Lineage cord:** Father → Chasqui → Son → Grandson (three generations of runners)
-- **Reciprocity with empire:** Messages carried faithfully, wisdom earned, position granted
-- **Tiwanaku heritage:** Visited ancient ruins in youth, carries ancestral memory
-- **Cosmic witnesses:** Sees 1531 Halley's Comet (remembered), 1532 comet (present death)
-
-**Background:**
-- Born 1452 near Lake Titicaca
-- Youth as vigorous chasqui: traveled Titicaca basin/altiplano, crucial 1492 journey to Cusco and Isla Del Sol (age 40)
-- Earned favor and wisdom through messenger service → became ayllu leader in Chucuito
-- His chasqui fitness extended his life to 80 years
-- Son and grandson both chasquis, bringing news to his deathbed
-
----
-
-## Historical and Cosmological Context
-
-**From Research (`lake_titicaca_1532_research.md`):**
 - Chucuito/Collasuyu aligned with Huáscar in civil war → on losing side after Atahualpa's victory
 - Intersection of Inca imperial rule + Tiwanaku ancestral heritage + Aymara local traditions
 - Ayllu-based organization with dual moieties
