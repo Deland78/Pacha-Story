@@ -3,11 +3,12 @@
 entity_id: chasqui_lineage
 name: "The Messenger Lineage"
 domain: kay
-essence: "Three generations carrying messages through imperio's collapse"
+essence: "Generations carrying messages through imperio's collapse"
 relations:
-  - The Chasqui (elder, dying)
-  - His Son (middle generation)
-  - His Grandson (youngest runner)
+  - 1452: Nayra the baby
+  - 1532: Nayra, The elder Chasqui (dying)
+  - 1532: His Son (middle generation)
+  - 1532: His Grandson (youngest runner)
   - The Chasqui Network
   - Tawantinsuyu
 appears_through: "Footsteps arriving breathless, news spoken with runner's rhythm, three voices across time"

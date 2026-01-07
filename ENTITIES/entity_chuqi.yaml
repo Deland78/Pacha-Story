@@ -1,0 +1,15 @@
+# ENTITIES/entity_chuqi.yaml
+entity_id: chuqi
+name: "Chuqi"
+domain: kay
+essence: "Kinetic relay; witness to the Inca shadow; breath before the turning"
+relations:
+  - "The Messenger Lineage"
+  - "Nayra (infant kin)"
+  - "Tawantinsuyu (as encroaching weight)"
+appears_through: "rhythmic breathing, footsteps on stone, sudden trance-stiffness"
+material_presence: "sweat, dust, woven chasqui-sling"
+notes: >
+  Chuqi represents the kinetic youth of the chasqui lineage. His struggle to maintain tempo on 
+  the imperial routes serves as a metaphor for the family's endurance during the Inca 
+  consolidation of the Lupaca people. He dies in 1452, seeding the future for Nayra.

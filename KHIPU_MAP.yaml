@@ -38,6 +38,7 @@ cords:
   - Meteor Shower
   - The Chasqui
   - The 1532 Comet
+  - Chuqi
   - Chucuito
   color: multi-colored (gold-earth-obsidian)
   notes: The witness becomes the threshold where all three Pachas meet and speak as
@@ -45,6 +46,10 @@ cords:
     and Carlos (1992)—all experiencing pachakuti when cosmic events align. Each becomes
     the threshold through which Pacha knows itself.
   knots:
+  - weaving_id: W06
+    knot_type: vision
+    transformation: 'Chuqi witnesses the confluence of comets: the 1456 forecast and
+      the 1532 blade—pacha folds as the runner touches the stones of Akapana.'
   - weaving_id: W01
     knot_type: encounter
     transformation: 'Clarity of sight: the folding of Pacha becomes visible to one
@@ -76,12 +81,17 @@ cords:
   - The Burial Mound
   - Khunu
   - The Chasqui
+  - Chuqi
   - Chucuito
   color: obsidian
   notes: The passage from living presence to ancestral memory, witnessed and sealed.
     From Kay Pacha to Ukhu Pacha—the transformation that makes ancestors of the living.
     Both the Elder (992) and the Chasqui (1532) undergo this witnessed passage.
   knots:
+  - weaving_id: W07
+    knot_type: transformation
+    transformation: Chuqi becomes the seed; the relay is handed to infant Nayra through
+      the Staff God trinket—continuity preserved through the silence of death.
   - weaving_id: W01
     knot_type: transformation
     transformation: The Elder becomes ancestor; the mound becomes threshold — The
@@ -168,6 +178,7 @@ cords:
 - name: Thread of Messages
   type: reciprocity
   connects:
+  - Chuqi
   - The Chasqui
   - Chasqui Lineage
   - The Chasqui Network
@@ -180,6 +191,16 @@ cords:
     dissolves. The messenger tradition persists beyond the political structure it
     was built to serve.
   knots:
+  - weaving_id: W06
+    knot_type: encounter
+    transformation: 'Chuqi hears the "tempo" of the future and the past on the new
+      Inca road: the messenger network carries the timing of a lineage, not just the
+      words of an empire.'
+  - weaving_id: W07
+    knot_type: transformation
+    transformation: 'Final message sent through death itself: Chuqi preserves the
+      relay for infant Nayra as his kinetic energy is stilled—the pattern continues
+      through reciprocity.'
   - weaving_id: W03
     knot_type: encounter
     transformation: 'Grandson''s arrival triggers memory of son bringing impossible
@@ -233,6 +254,8 @@ entities_index:
   file: ENTITIES/entity_chasqui_lineage.yaml
 - id: chucuito
   file: ENTITIES/entity_chucuito.yaml
+- id: chuqi
+  file: ENTITIES/entity_chuqi.yaml
 - id: comet_1532
   file: ENTITIES/entity_1532_comet.yaml
 - id: cusi_mamani
@@ -280,3 +303,7 @@ weavings_index:
   file: WEAVINGS/W04.yaml
 - id: W05
   file: WEAVINGS/W05.yaml
+- id: W06
+  file: WEAVINGS/W06.yaml
+- id: W07
+  file: WEAVINGS/W07.yaml
